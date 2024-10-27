@@ -213,7 +213,6 @@ if selected_customer_option:
 
         balance = st.number_input("Balance",
                                   min_value=0.0,
-                                  max_value=10.0,
                                   value=float(selected_customer["Balance"]))
 
         num_products = st.number_input("Number of Products",
