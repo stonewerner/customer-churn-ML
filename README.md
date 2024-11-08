@@ -92,13 +92,10 @@ The final model prioritizes recall over precision because:
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👥 Contact
 
-For questions or collaboration opportunities, please reach out to [your-email@domain.com]
+For questions or collaboration opportunities, please reach out to Stone Werner, stonewerner.com
 
 ## 🔍 Future Improvements
 
